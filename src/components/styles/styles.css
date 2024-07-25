@@ -1,0 +1,14 @@
+.line-clamp {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.rounded-border {
+    border-radius: 8pt;
+}
+
+.rounded-border-top {
+    border-radius: 8pt 8pt 0pt 0pt;
+}
